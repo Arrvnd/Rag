@@ -1,0 +1,20 @@
+# Streamlit UI
+streamlit
+
+# Core LangChain Packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Google Gemini LLM Support
+langchain-google-genai
+
+# Vector Database (In-Memory)
+chromadb
+
+# Embeddings (HuggingFace)
+sentence-transformers
+
+# PDF Loader
+pypdf
